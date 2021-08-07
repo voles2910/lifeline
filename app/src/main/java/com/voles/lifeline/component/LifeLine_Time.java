@@ -13,7 +13,7 @@ import com.orhanobut.logger.Logger;
 
 public class LifeLine_Time extends View {
     private Paint timer_shaft_paint; //时间轴画笔
-    private int screen_width; //屏幕宽度1
+    private int screen_width; //屏幕宽度1111
     private int screen_height; //屏幕高度
     private float timer_shaft_startx; //时间轴起始X坐标轴
     private float timer_shaft_starty; //时间轴起始Y坐标轴
