@@ -1,12 +1,9 @@
 package com.voles.lifeline;
 
 import android.os.Bundle;
-import android.util.Log;
-
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.orhanobut.logger.AndroidLogAdapter;
 import com.orhanobut.logger.Logger;
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
